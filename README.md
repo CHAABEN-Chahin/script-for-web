@@ -261,6 +261,17 @@ rm -rf node_modules package-lock.json
 npm install
 ```
 
+## 📚 Documentation
+
+### For Presentations & Demos
+- **[PRESENTATION_GUIDE.md](./PRESENTATION_GUIDE.md)** - Quick navigation guide for presentations
+- **[PRESENTATION_SCRIPT.md](./PRESENTATION_SCRIPT.md)** - Complete presentation script with code references and video guide
+
+### For Users & Developers
+- **[USER_GUIDE.md](./USER_GUIDE.md)** - User manual in French
+- **[IMPLEMENTATION_SUMMARY.md](./IMPLEMENTATION_SUMMARY.md)** - Technical implementation details
+- **[DATABASE_FIX_SUMMARY.md](./DATABASE_FIX_SUMMARY.md)** - Database architecture
+
 ## 🤝 Contributing
 
 1. Fork the project
