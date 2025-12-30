@@ -1286,13 +1286,14 @@ Pour chaque fonctionnalité montrée :
 3. **Expliquer la logique** (comment ça marche)
 
 ### Ressources additionnelles
-- **README.md** : Documentation utilisateur
-- **USER_GUIDE.md** : Guide d'utilisation détaillé
-- **IMPLEMENTATION_SUMMARY.md** : Résumé technique
-- **DATABASE_FIX_SUMMARY.md** : Architecture base de données
+- **README.md** - Documentation utilisateur
+- **USER_GUIDE.md** - Guide d'utilisation detaille
+- **IMPLEMENTATION_SUMMARY.md** - Resume technique
+- **DATABASE_FIX_SUMMARY.md** - Architecture base de donnees
 
 ---
 
-**Créé pour le projet El Bazar**  
+**Cree pour le projet El Bazar**  
 **Licence : MIT**  
 **Version : 1.0**
+
